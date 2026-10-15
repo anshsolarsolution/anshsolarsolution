@@ -1,16 +1,17 @@
-## Hi there 👋
+# Ansh Solar Solution — B2B Solar Panel Website
 
-<!--
-**anshsolarsolution/anshsolarsolution** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Single-page responsive website for B2B solar panel sales only.
 
-Here are some ideas to get you started:
+## Navigation flow
+- Home shows the B2B solar panel sales introduction.
+- Click **Solar Panels** to open the panel wattage collection.
+- Click **View details** on a wattage to view its enquiry details.
+- Click **Enquire about this panel** to open the contact form with the selected wattage prefilled.
+- The contact form opens a prefilled WhatsApp message.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- Phone / WhatsApp: 7065753267
+- Email: anshsolarsolution@gmail.com
+
+## Open locally
+Extract the ZIP and open `index.html` in a browser. Internet access is needed for externally hosted product images.
